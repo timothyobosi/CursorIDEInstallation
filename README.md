@@ -1,0 +1,2 @@
+# CursorIDEInstallation
+Instructions
